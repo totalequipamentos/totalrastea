@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "rastreador/plugins"
+		},
+		{
+			"name": "totalrastea",
+			"path": "rastreador/totalrastea"
+		}
+	],
+	"settings": {
+		"githubPullRequests.assignCreated": "https://github.com/totalequipamentos/totalrastea"
+	},
+	"extensions": {
+		"recommendations": [
+			"github.copilot-chat"
+		]
+	}
+}
